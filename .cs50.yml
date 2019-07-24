@@ -1,0 +1,19 @@
+# Moolm
+# include <cs50.h>
+int main(void)
+lab50: true
+files: 
+- !include foo/bar.c
+- !include foo/bar.h
+for (int x = 2; x > LIMIT; i++)
+if (x > 0)
+{
+    printf("x is positive/n");
+}
+else if (x < 0)
+{
+    printf("x is negative/n");
+}
+else
+{
+    printf("x is zero/n");
